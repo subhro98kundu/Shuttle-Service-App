@@ -1,0 +1,26 @@
+{
+    "KA123456789": {
+        "number": "KA123456789",
+        "ontrip": false,
+        "password": "1234",
+        "isloggedin": false
+    },
+    "KA123456781": {
+        "number": "KA123456781",
+        "ontrip": false,
+        "password": "1234",
+        "isloggedin": false
+    },
+    "KA123456782": {
+        "number": "KA123456782",
+        "ontrip": false,
+        "password": "1234",
+        "isloggedin": false
+    },
+    "KA123456783": {
+        "number": "KA123456783",
+        "ontrip": false,
+        "password": "1234",
+        "isloggedin": false
+    }   
+}
